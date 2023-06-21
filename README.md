@@ -1,5 +1,5 @@
 # PCOCalendarExport.ps1
-PowerShell Cmdlets to assist in migration from [Planning Center Online](https://www.planningcenter.com/) Calendar to another service (FMX) which insists on a CSV input format.
+PowerShell Cmdlets to assist in migration from [Planning Center Online](https://www.planningcenter.com/) Calendar to another service (such as FMX) which insists on a CSV input format.
 
 ## Usage
 1. Provide your App ID and Secret obtained from [here](https://api.planningcenteronline.com/oauth/applications) near the top of the script in the ```*** CONFIGURATION ***``` section.
